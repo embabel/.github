@@ -25,7 +25,7 @@ model from Java.
 
 ## Getting Started
 
-Please start with the [Embabel Agent API repository](https://github.com/embabel/embabel-agent-api)
+Please start with the [Embabel Agent repository](https://github.com/embabel/embabel-agent)
 
 ## Key Concepts
 
