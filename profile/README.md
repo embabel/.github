@@ -25,7 +25,18 @@ model from Java.
 
 ## Getting Started
 
-Please start with the [Embabel Agent repository](https://github.com/embabel/embabel-agent)
+There are two GitHub template repos you can use to create your own project:
+
+- Java template - https://github.com/embabel/java-agent-template
+- Kotlin template - https://github.com/embabel/kotlin-agent-template
+
+Or you can use our [project creator](https://github.com/embabel/project-creator) to create a custom project:
+
+```bash
+uvx --from git+https://github.com/embabel/project-creator.git project-creator
+```
+
+The key repository to explore to learn more is the [Embabel Agent repository](https://github.com/embabel/embabel-agent)
 
 ## Key Concepts
 
