@@ -36,7 +36,11 @@ Or you can use our [project creator](https://github.com/embabel/project-creator)
 uvx --from git+https://github.com/embabel/project-creator.git project-creator
 ```
 
-The key repository to explore to learn more is the [Embabel Agent repository](https://github.com/embabel/embabel-agent)
+Introductory examples are in our [examples repository](https://github.com/embabel/embabel-agent-examples).
+
+For an advanced example, see our [Travel Planner](https://github.com/embabel/tripper). 
+
+The core repository for implementation code is the [Embabel Agent repository](https://github.com/embabel/embabel-agent)
 
 ## Key Concepts
 
