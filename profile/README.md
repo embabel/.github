@@ -21,7 +21,7 @@ Framework for authoring agentic flows on the JVM that seamlessly mix LLM-prompte
 with code and domain models. Supports
 intelligent path finding towards goals. Written in Kotlin
 but offers a natural usage
-model from Java.
+model from Java. From the creator of Spring.
 
 ## Getting Started
 
@@ -42,9 +42,11 @@ For an advanced example, see our [Travel Planner](https://github.com/embabel/tri
 
 The core repository for implementation code is the [Embabel Agent repository](https://github.com/embabel/embabel-agent)
 
+For more resources, see [Awesome Embabel](https://github.com/embabel/awesome-embabel).
+
 ## Key Concepts
 
-Models agentic flows in terms of:
+Embabel models agentic flows in terms of:
 
 - **Actions**: Steps an agent takes
 - **Goals**: What the agent is trying to achieve
