@@ -19,7 +19,7 @@
 
 Framework for authoring agentic flows on the JVM that seamlessly mix LLM-prompted interactions
 with code and domain models. Supports
-intelligent path finding towards goals. Written in Kotlin
+intelligent pathfinding towards goals. Written in Kotlin
 but offers a natural usage
 model from Java. From the creator of Spring.
 
@@ -80,11 +80,10 @@ These concepts deliver the following differentiators versus other agentic system
 
 Other benefits:
 
-- **Platform abstraction**: Clean separation between programming model and platform concept allow running locally while
-  potentially offering higher QoS changing application code.
+- **Platform abstraction**: Clean separation between programming model and platform concept allows running locally while
+  potentially offering higher QoS without changing application code.
 - **Designed for LLM mixing**: It is easy to build applications that mix LLMs, ensuring the most cost effective yet
-  capable solution.
-  models. This enables the system to leverage the strengths of different models for different tasks.
+  capable solution. This enables the system to leverage the strengths of different models for different tasks.
 - **Built on Spring and the JVM,** making it easy to access existing enterprise functionality and capabilities.
   For example:
     - Spring can inject and manage agents, including using Spring AOP to decorate functions.
@@ -97,4 +96,4 @@ Flows can be authored in one of two ways:
   `@Action` methods.
 - Kotlin DSL.
 
-Either way, flows are backed by a domain model of objects that can defined behavior.
+Either way, flows are backed by a domain model of objects that can define behavior.
